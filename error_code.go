@@ -2,6 +2,7 @@ package common_share
 
 
 const (
-	 SystemCode = 1
-	 NoDataCode = 2
+	 SuccessCode     = 0
+	 SystemErrorCode = 1
+	 NoDataErrorCode = 2
 )
